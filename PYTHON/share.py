@@ -6,7 +6,7 @@ def individualshare(bill,people):
     print(f"bill:{bill}")
     print(f"people:{people}")
     print(f"Share:{share}")
-x=int(input("Enter the total amount: "))
-y=int(input("Enter the people: "))
+x=1250
+y=4
 individualshare(x,y)
     
