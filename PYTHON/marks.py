@@ -4,5 +4,7 @@ def marks(x):
         return
     if x>=40:
         print("PASS")
+    if x<40:
+        print("FAIL")    
 mark=75
 marks(mark)
